@@ -25,34 +25,20 @@
 
 <!-- 社交链接 -->
 <h3>🌐 Connect with Me</h3>
-<p align="center" style="display: flex; justify-content: center; gap: 12px;">
-  <!-- CodePen: 深灰底色+白色图标 -->
-  <a href="https://codepen.io/Geekstrange" style="transition: transform 0.3s;"
-     onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/CodePen-5E616D?style=flat-square&logo=codepen&logoColor=white" alt="CodePen">
+<p>
+  <a href="https://codepen.io/Geekstrange">
+    <img src="https://img.shields.io/badge/CodePen-5E616D?logo=codepen" alt="CodePen">
   </a>
-
-  <!-- LinkedIn: 修复图标显示 -->
-  <a href="https://www.linkedin.com/in/eric-zhang-b1682920b/" style="transition: transform 0.3s;"
-     onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/eric-zhang-b1682920b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin" alt="LinkedIn">
   </a>
-
-  <!-- Instagram: 渐变紫红色 -->
-  <a href="https://www.instagram.com/be.wind/" style="transition: transform 0.3s;"
-     onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.instagram.com/be.wind/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram" alt="Instagram">
   </a>
-
-  <!-- Bilibili: 粉色+动态效果 -->
-  <a href="https://space.bilibili.com/100030354" style="transition: transform 0.3s;"
-     onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/Bilibili-FF69B4?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili">
+  <a href="https://space.bilibili.com/100030354">
+    <img src="https://img.shields.io/badge/Bilibili-FF69B4?logo=bilibili" alt="Bilibili">
   </a>
-
-  <!-- Coolapk: 酷安绿色定制 -->
-  <a href="https://www.coolapk.com/u/3791216" style="transition: transform 0.3s;"
-     onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/Coolapk-32CD32?style=flat-square&logo=android&logoColor=white" alt="Coolapk">
+  <a href="https://www.coolapk.com/u/3791216">
+    <img src="https://img.shields.io/badge/Coolapk-11B5F6?logo=android&logoColor=white&color=32CD32" alt="Coolapk">
   </a>
 </p>
