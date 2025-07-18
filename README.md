@@ -1,6 +1,6 @@
 <!-- GitHub绿墙比例Banner (宽度自适应，高度压缩) -->
 <div align="center">
-  <img src="https://github.com/Geekstrange/Geekstrange/blob/main/img/wow.jpg?raw=true" alt="Banner" width="100%" height="200px" style="object-fit: cover;">
+  <img src="https://github.com/Geekstrange/Geekstrange/blob/main/img/wow.jpg?raw=true" alt="Banner" width="100%" height="100%" style="object-fit: cover;">
 </div>
 
 <!-- 标题与引言 -->
