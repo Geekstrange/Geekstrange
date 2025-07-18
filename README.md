@@ -1,11 +1,15 @@
-<!-- GitHub绿墙比例Banner (宽度自适应，高度压缩) -->
+<!-- GitHub绿墙比例Banner (宽度自适应) -->
 <div align="center">
   <img src="https://github.com/Geekstrange/Geekstrange/blob/main/img/wow.jpg?raw=true" alt="Banner" width="100%" height="100%" style="object-fit: cover;">
 </div>
 
-<!-- 标题与引言 -->
-<h1 align="center">Hello 👋 I'm Geekstrange</h1>
-<h3 align="center">Some days you bloom, some days you grow roots. Both matter.</h3>
+<!-- 今日诗词标题区域 -->
+<div align="center" style="margin: 2rem 0;">
+  <div id="poem-container" style="font-size: 1.8rem; font-weight: 600; color: #333; line-height: 1.8; min-height: 60px;">
+    加载中...
+  </div>
+  <div id="poem-author" style="margin-top: 0.8rem; font-size: 1.2rem; color: #666; font-style: italic;"></div>
+</div>
 
 <!-- GitHub统计卡片 -->
 <div align="center">
@@ -42,3 +46,21 @@
     <img src="https://img.shields.io/badge/Coolapk-11B5F6?logo=android&logoColor=white&color=32CD32" alt="Coolapk">
   </a>
 </p>
+
+<script>
+// 调用今日诗词API获取随机诗句
+fetch('https://v1.jinrishici.com/all.json')
+  .then(response => response.json())
+  .then(data => {
+    const poemContainer = document.getElementById('poem-container');
+    const authorContainer = document.getElementById('poem-author');
+
+    // 显示诗句和作者
+    poemContainer.textContent = data.content;
+    authorContainer.textContent = `—— ${data.author}《${data.origin}》`;
+  })
+  .catch(error => {
+    document.getElementById('poem-container').textContent = "海内存知己，天涯若比邻";
+    document.getElementById('poem-author').textContent = "—— 王勃《送杜少府之任蜀州》";
+  });
+</script>
