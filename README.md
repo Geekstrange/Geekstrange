@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
-  
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 
 
@@ -24,7 +24,7 @@
     <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=Geekstrange&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
+    <!-- wakatime -->
     <a href="https://wakatime.com/@Geekstrange"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 
   </div>
@@ -41,7 +41,7 @@
 #  🙋 Hello
 
 <table>
-  
+
 <tr><td>
 
 ### 🤺 About Me
@@ -52,49 +52,6 @@
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
-</td></tr>
-
-<tr><td>
-
-### 🏢 Work Experience
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/assets/images/yuanze.png" />
-
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— 2024-08-28
-
-  - 工作岗位：软件研发工程师
-  - 工作内容：软件开发与维护
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/assets/images/tuhui.png" />
-
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
-
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：一些杂活
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/assets/images/nio.png" />
-
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
-
-  - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
-
-</td></tr>
-
-<tr><td>
-
-### 📃 Recent Blog
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/assets/images/astronaut.png" />
-
-<!-- feed start -->
-- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kunlunchao/)
-- Mar 10 - [你好，北京！你好，原则科技！一切都是最好的安排！](https://blog.guoqi.dev/posts/yuanze/)
-- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://blog.guoqi.dev/posts/2023/)
-- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://blog.guoqi.dev/posts/xizang/)
-- Jan 03 - [珠海之旅｜去感受风，去聆听海，去触摸，去抵达](https://blog.guoqi.dev/posts/zhuhai/)
-<!-- feed end -->
 
 </td></tr>
 
@@ -119,44 +76,44 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                673 commits         ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-🌆 Daytime                813 commits         ████████░░░░░░░░░░░░░░░░░   32.42 % 
-🌃 Evening                585 commits         ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-🌙 Night                  437 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+🌞 Morning                673 commits         ███████░░░░░░░░░░░░░░░░░░   26.83 %
+🌆 Daytime                813 commits         ████████░░░░░░░░░░░░░░░░░   32.42 %
+🌃 Evening                585 commits         ██████░░░░░░░░░░░░░░░░░░░   23.33 %
+🌙 Night                  437 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 %
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday                   327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Tuesday                  244 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Wednesday                389 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Thursday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Friday                   630 commits         ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-Saturday                 208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Sunday                   426 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Monday                   327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 %
+Tuesday                  244 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+Wednesday                389 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
+Thursday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+Friday                   630 commits         ██████░░░░░░░░░░░░░░░░░░░   25.12 %
+Saturday                 208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Sunday                   426 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
-TypeScript               22 hrs 4 mins       ███████████████████████░░   93.32 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Bash                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-SCSS                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+💬 Programming Languages:
+TypeScript               22 hrs 4 mins       ███████████████████████░░   93.32 %
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Bash                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+SCSS                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 
-🔥 Editors: 
-VS Code                  23 hrs 39 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  23 hrs 39 mins      █████████████████████████   100.00 %
 
-💻 Operating System: 
-Mac                      23 hrs 39 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      23 hrs 39 mins      █████████████████████████   100.00 %
 ```
 
 
@@ -221,7 +178,7 @@ Mac                      23 hrs 39 mins      ███████████�
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-  
+
 <!-- GitHub 奖杯🏆 -->
 <div><img src="https://github-profile-trophy.vercel.app/?username=Geekstrange&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
@@ -281,87 +238,4 @@ Mac                      23 hrs 39 mins      ███████████�
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
-
-<!-- svg -->
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
-
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/assets/images/github.webp">
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/assets/images/hr.gif" />
-
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
-
-<!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/assets/images/githubgif.gif" />
-
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
-
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/Geekstrange/Geekstrange/assets/images/icon.png" /></div>
 </div>
