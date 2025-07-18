@@ -1,0 +1,38 @@
+name: Daily Poem Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 0 点执行
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-poem:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch poem
+        id: fetch_poem
+        run: |
+          # 调用今日诗词 API
+          poem=$(curl -s "https://v1.jinrishici.com/all.json")
+          # 提取诗句和作者信息
+          content=$(echo "$poem" | jq -r '.content')
+          author=$(echo "$poem" | jq -r '.author')
+          origin=$(echo "$poem" | jq -r '.origin')
+          # 输出为环境变量
+          echo "POEM_CONTENT=$content" >> $GITHUB_ENV
+          echo "POEM_AUTHOR=$author" >> $GITHUB_ENV
+          echo "POEM_ORIGIN=$origin" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          # 替换 README 中的占位符
+          sed -i "s/{{POEM_CONTENT}}/${{ env.POEM_CONTENT }}/g" README.md
+          sed -i "s/{{POEM_AUTHOR}}/${{ env.POEM_AUTHOR }}/g" README.md
+          sed -i "s/{{POEM_ORIGIN}}/${{ env.POEM_ORIGIN }}/g" README.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update daily poem"
