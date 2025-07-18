@@ -17,7 +17,7 @@
 <h3>🛠️ Tech Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Rust-CC4729?logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
@@ -27,7 +27,7 @@
 <h3>🌐 Connect with Me</h3>
 <p>
   <a href="https://codepen.io/Geekstrange">
-    <img src="https://img.shields.io/badge/CodePen-000000?logo=codepen" alt="CodePen">
+    <img src="https://img.shields.io/badge/CodePen-FFFEF8?logo=codepen" alt="CodePen">
   </a>
   <a href="https://www.linkedin.com/in/eric-zhang-b1682920b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin" alt="LinkedIn">
