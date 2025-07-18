@@ -5,8 +5,7 @@
 
 <!-- 标题与引言 -->
 <h1 align="center">Hello 👋 I'm Geekstrange</h1>
-<h3 align="center">Full-Stack Developer | Open-Source Explorer</h3>
-> "Some days you bloom, some days you grow roots. Both matter." 🌱
+<h3 align="center">Some days you bloom, some days you grow roots. Both matter.</h3>
 
 <!-- GitHub统计卡片 -->
 <div align="center">
