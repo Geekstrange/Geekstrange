@@ -26,7 +26,7 @@
 <p><strong>Development Tools/Environments</strong><br>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes(K8s)">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
 </p>
 
@@ -47,9 +47,12 @@
 
 <p><strong>Design Tools</strong><br>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white" alt="Illustrator">
-  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?logo=adobeindesign&logoColor=white" alt="InDesign">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=adobelightroom&logoColor=white" alt="Adobe Lightroom">
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?logo=adobeindesign&logoColor=white" alt="Adobe InDesign">
+  <img src="https://img.shields.io/badge/Adobe%20Audition-FF9C07?logo=adobeaudition&logoColor=white" alt="Adobe Audition">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro">
 </p>
 
 
