@@ -2,48 +2,55 @@ name: Daily Poem Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天UTC 0点执行
+    - cron: '0 0 * * *'  # 每天UTC 0点执行(北京时间8点)
   workflow_dispatch:  # 允许手动触发
 
 jobs:
   update-poem:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # 关键：添加写入权限
+      contents: write  # 赋予写入权限
     steps:
       - uses: actions/checkout@v4
         with:
-          persist-credentials: true  # 保持凭证
+          persist-credentials: true
 
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Fetch poem
-        id: fetch_poem
+      - name: Determine content based on day
+        id: content_generator
         run: |
-          poem=$(curl -s "https://v1.jinrishici.com/all.json")
-          # 增强容错：API失败时使用默认值
-          content=$(echo "$poem" | jq -r '.content // "春风得意马蹄疾，一日看尽长安花"')
-          author=$(echo "$poem" | jq -r '.author // "孟郊"')
-          origin=$(echo "$poem" | jq -r '.origin // "登科后"')
+          # 获取当前星期几(1=周一 ... 6=周六 7=周日)
+          day_of_week=$(date +%u)
+          echo "当前星期几: $day_of_week"
 
-          # 处理特殊字符（避免sed替换失败）
-          content=$(echo "$content" | sed 's/[\/&]/\\&/g')
-          author=$(echo "$author" | sed 's/[\/&]/\\&/g')
-          origin=$(echo "$origin" | sed 's/[\/&]/\\&/g')
+          # 周末(周六=6 周日=7)使用原句
+          if [ $day_of_week -ge 6 ]; then
+            title="Hello 👋 I'm Geekstrange"
+            subtitle="Some days you bloom, some days you grow roots. Both matter."
+          else
+            # 工作日调用诗词API
+            poem=$(curl -s "https://v1.jinrishici.com/all.json")
+            title=$(echo "$poem" | jq -r '.content // "长风破浪会有时，直挂云帆济沧海"')
+            subtitle="—— $(echo "$poem" | jq -r '.author // "李白"')《$(echo "$poem" | jq -r '.origin // "行路难"')》"
+          fi
 
-          echo "POEM_CONTENT=$content" >> $GITHUB_ENV
-          echo "POEM_AUTHOR=$author" >> $GITHUB_ENV
-          echo "POEM_ORIGIN=$origin" >> $GITHUB_ENV
+          # 处理特殊字符(避免sed替换失败)
+          title=$(echo "$title" | sed 's/[\/&]/\\&/g')
+          subtitle=$(echo "$subtitle" | sed 's/[\/&]/\\&/g')
+
+          echo "TITLE=$title" >> $GITHUB_ENV
+          echo "SUBTITLE=$subtitle" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          # 替换占位符（确保与README中的格式完全一致）
-          sed -i "s/Hello 👋 I'm Geekstrange/${{ env.POEM_CONTENT }}/g" README.md
-          sed -i "s/Some days you bloom, some days you grow roots. Both matter./—— ${{ env.POEM_AUTHOR }}《${{ env.POEM_ORIGIN }}》/g" README.md
+          # 替换标题和副标题
+          sed -i "s/<h1 align=\"center\">.*<\/h1>/<h1 align=\"center\">${{ env.TITLE }}<\/h1>/g" README.md
+          sed -i "s/<h3 align=\"center\">.*<\/h3>/<h3 align=\"center\">${{ env.SUBTITLE }}<\/h3>/g" README.md
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update daily poem"
+          commit_message: "Update daily content"
           push_options: --force
