@@ -27,7 +27,7 @@ jobs:
 
           # 周末(周六=6 周日=7)使用原句
           if [ $day_of_week -ge 6 ]; then
-            title="Hello 👋 I'm Geekstrange"
+            title="Long time no see, stranger! ∠( ᐛ 」∠)＿"
             subtitle="Some days you bloom, some days you grow roots. Both matter."
           else
             # 工作日调用诗词API
