@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">Long time no see, stranger! ∠( ᐛ 」∠)__</h1>
-<h3 align="center">NOTHING CHANGES IF NOTHING CHANGES</h3>
+<h1 align="center">雁尽书难寄，愁多梦不成。</h1>
+<h3 align="center">—— 沈如筠《闺怨二首·其一》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
