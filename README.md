@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">但从今、记取楚楼风，裴台月。</h1>
-<h3 align="center">—— 辛弃疾《满江红·汉水东流》</h3>
+<h1 align="center">日星隐曜，山岳潜形；</h1>
+<h3 align="center">—— 范仲淹《岳阳楼记》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
