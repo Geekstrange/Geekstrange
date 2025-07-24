@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">日星隐曜，山岳潜形；</h1>
-<h3 align="center">—— 范仲淹《岳阳楼记》</h3>
+<h1 align="center">欲买桂花同载酒，终不是、少年游。</h1>
+<h3 align="center">—— 刘过《唐多令·芦叶满汀洲》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
