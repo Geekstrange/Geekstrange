@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">月上柳梢头，人约黄昏后。</h1>
-<h3 align="center">—— 欧阳修《生查子·元夕》</h3>
+<h1 align="center">今宵绝胜无人共，卧看星河尽意明。</h1>
+<h3 align="center">—— 陈与义《雨晴·天缺西南江面清》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
