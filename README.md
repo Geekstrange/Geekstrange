@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">今宵绝胜无人共，卧看星河尽意明。</h1>
-<h3 align="center">—— 陈与义《雨晴·天缺西南江面清》</h3>
+<h1 align="center">上有流思人，怀旧望归客。</h1>
+<h3 align="center">—— 谢朓《送江水曹还远馆》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
