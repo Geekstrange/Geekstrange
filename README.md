@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">今日听君歌一曲，暂凭杯酒长精神。</h1>
-<h3 align="center">—— 刘禹锡《酬乐天扬州初逢席上见赠》</h3>
+<h1 align="center">归来三径重扫，松竹本吾家。</h1>
+<h3 align="center">—— 叶梦得《水调歌头·秋色渐将晚》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
