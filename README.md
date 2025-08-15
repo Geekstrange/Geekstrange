@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">佳人独立相思苦。薄袖欺寒脩竹暮。</h1>
-<h3 align="center">—— 刘镇《玉楼春·东山探梅》</h3>
+<h1 align="center">一骑红尘妃子笑，无人知是荔枝来。</h1>
+<h3 align="center">—— 杜牧《过华清宫绝句三首》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
