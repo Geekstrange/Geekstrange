@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">来时父母知隔生，重著衣裳如送死。</h1>
-<h3 align="center">—— 王建《渡辽水》</h3>
+<h1 align="center">南去北来徒自老，故人稀。</h1>
+<h3 align="center">—— 贺铸《钓船归·绿净春深好染衣》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
