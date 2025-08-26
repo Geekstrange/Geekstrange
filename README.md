@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">当君怀归日，是妾断肠时。</h1>
-<h3 align="center">—— 李白《春思》</h3>
+<h1 align="center">问君何事轻离别，一年能几团圞月。</h1>
+<h3 align="center">—— 纳兰性德《菩萨蛮·问君何事轻离别》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
