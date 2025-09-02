@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">故乡今夜思千里，霜鬓明朝又一年。</h1>
-<h3 align="center">—— 高适《除夜作》</h3>
+<h1 align="center">三万里河东入海，五千仞岳上摩天。</h1>
+<h3 align="center">—— 陆游《秋夜将晓出篱门迎凉有感》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
