@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">梨花最晚又凋零，何事归期无定准。</h1>
-<h3 align="center">—— 欧阳修《玉楼春·去时梅萼初凝粉》</h3>
+<h1 align="center">童孙未解供耕织，也傍桑阴学种瓜。</h1>
+<h3 align="center">—— 范成大《夏日田园杂兴·其七》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
