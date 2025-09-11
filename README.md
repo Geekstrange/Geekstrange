@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">两岸荔枝红，万家烟雨中。</h1>
-<h3 align="center">—— 李师中《菩萨蛮·子规啼破城楼月》</h3>
+<h1 align="center">九衢雪小，千门月淡，元宵灯近。</h1>
+<h3 align="center">—— 晁端礼《水龙吟·咏月》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
