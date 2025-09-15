@@ -42,6 +42,7 @@
 <p><strong>Databases</strong><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" alt="MariaDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-3E6389?logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Valkey-7A04EB?logo=valkey&logoColor=white" alt="Valkey">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
