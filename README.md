@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">月色灯山满帝都，香车宝盖隘通衢。</h1>
-<h3 align="center">—— 李商隐《观灯乐行》</h3>
+<h1 align="center">自是荷花开较晚，孤负东风。</h1>
+<h3 align="center">—— 幼卿《浪淘沙·极目楚天空》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
