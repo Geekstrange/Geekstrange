@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">自是荷花开较晚，孤负东风。</h1>
-<h3 align="center">—— 幼卿《浪淘沙·极目楚天空》</h3>
+<h1 align="center">墉集欺猫鼠，林藏逐雀鹯。</h1>
+<h3 align="center">—— 徐威《中秋咏怀借杜子美秋日述怀一百韵和寄柳州假鸣桑先生》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
