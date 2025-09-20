@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">白日登山望烽火，黄昏饮马傍交河。</h1>
-<h3 align="center">—— 李颀《古从军行》</h3>
+<h1 align="center">Hello 👋 I'm Geekstrange</h1>
+<h3 align="center">Some days you bloom, some days you grow roots. Both matter.</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
