@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">孤烟村际起，归雁天边去。</h1>
-<h3 align="center">—— 孟浩然《南归阻雪》</h3>
+<h1 align="center">溪云初起日沉阁，山雨欲来风满楼。</h1>
+<h3 align="center">—— 许浑《咸阳城东楼 / 咸阳城西楼晚眺 / 西门》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
