@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">小楼一夜听春雨，深巷明朝卖杏花。</h1>
-<h3 align="center">—— 陆游《临安春雨初霁》</h3>
+<h1 align="center">石溪久住思端午，馆驿楼前看发机。</h1>
+<h3 align="center">—— 卢肇《竞渡诗 / 及第后江宁观竞渡寄袁州剌史成应元》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
