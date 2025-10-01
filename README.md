@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">残柳宫前空露叶，夕阳川上浩烟波。</h1>
-<h3 align="center">—— 刘沧《经炀帝行宫》</h3>
+<h1 align="center">大儿锄豆溪东，中儿正织鸡笼。</h1>
+<h3 align="center">—— 辛弃疾《清平乐·村居》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
