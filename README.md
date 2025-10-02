@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">大儿锄豆溪东，中儿正织鸡笼。</h1>
-<h3 align="center">—— 辛弃疾《清平乐·村居》</h3>
+<h1 align="center">半亩方塘一鉴开，天光云影共徘徊。</h1>
+<h3 align="center">—— 朱熹《活水亭观书有感二首·其一》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
