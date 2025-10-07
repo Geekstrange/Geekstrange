@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">会稽愚妇轻买臣，余亦辞家西入秦。</h1>
-<h3 align="center">—— 李白《南陵别儿童入京》</h3>
+<h1 align="center">悠悠天宇旷，切切故乡情。</h1>
+<h3 align="center">—— 张九龄《西江夜行》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
