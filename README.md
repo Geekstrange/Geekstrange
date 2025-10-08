@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">悠悠天宇旷，切切故乡情。</h1>
-<h3 align="center">—— 张九龄《西江夜行》</h3>
+<h1 align="center">胡人吹笛戍楼间，楼上萧条海月闲。</h1>
+<h3 align="center">—— 高适《和王七玉门关听吹笛 / 塞上闻笛》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
