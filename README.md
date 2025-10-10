@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">自闻颖师弹，起坐在一旁。</h1>
-<h3 align="center">—— 韩愈《听颖师弹琴》</h3>
+<h1 align="center">梅子金黄杏子肥，麦花雪白菜花稀。</h1>
+<h3 align="center">—— 范成大《四时田园杂兴·其二》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
