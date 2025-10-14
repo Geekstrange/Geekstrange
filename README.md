@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">渭城朝雨浥轻尘，客舍青青柳色新。</h1>
-<h3 align="center">—— 王维《渭城曲 / 送元二使安西》</h3>
+<h1 align="center">故人在其下，尘土相豗蹴。</h1>
+<h3 align="center">—— 苏轼《送顿起》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
