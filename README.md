@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">不经一番寒彻骨，怎得梅花扑鼻香。</h1>
-<h3 align="center">—— 黄蘖禅师《上堂开示颂》</h3>
+<h1 align="center">雨荒深院菊，霜倒半池莲。</h1>
+<h3 align="center">—— 杜甫《宿赞公房》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
