@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">雨荒深院菊，霜倒半池莲。</h1>
-<h3 align="center">—— 杜甫《宿赞公房》</h3>
+<h1 align="center">水满有时观下鹭，草深无处不鸣蛙。</h1>
+<h3 align="center">—— 陆游《幽居初夏》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
