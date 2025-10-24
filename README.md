@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">众鸟高飞尽，孤云独去闲。</h1>
-<h3 align="center">—— 李白《独坐敬亭山》</h3>
+<h1 align="center">勤苦守恒业，始有数月粮。</h1>
+<h3 align="center">—— 黄燮清《秋日田家杂咏》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
