@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">河边独自看星宿，夜织天丝难接续。</h1>
-<h3 align="center">—— 王建《七夕曲》</h3>
+<h1 align="center">同是天涯沦落人，相逢何必曾相识！</h1>
+<h3 align="center">—— 白居易《琵琶行 / 琵琶引》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
