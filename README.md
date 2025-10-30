@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">追亡事、今不见，但山川满目泪沾衣。</h1>
-<h3 align="center">—— 辛弃疾《木兰花慢·席上送张仲固帅兴元》</h3>
+<h1 align="center">晨兴理荒秽，带月荷锄归。</h1>
+<h3 align="center">—— 陶渊明《归园田居·其三》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
