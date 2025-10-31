@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">晨兴理荒秽，带月荷锄归。</h1>
-<h3 align="center">—— 陶渊明《归园田居·其三》</h3>
+<h1 align="center">年去年来白发新，匆匆马上又逢春。</h1>
+<h3 align="center">—— 于谦《立春日感怀》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
