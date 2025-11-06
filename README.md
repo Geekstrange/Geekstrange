@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">寒雨连江夜入吴，平明送客楚山孤。</h1>
-<h3 align="center">—— 王昌龄《芙蓉楼送辛渐》</h3>
+<h1 align="center">不畏浮云遮望眼，只缘身在最高层。</h1>
+<h3 align="center">—— 王安石《登飞来峰》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
