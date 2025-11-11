@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">锦江近西烟水绿，新雨山头荔枝熟。</h1>
-<h3 align="center">—— 张籍《成都曲》</h3>
+<h1 align="center">笑时犹带岭梅香。试问岭南应不好。</h1>
+<h3 align="center">—— 苏轼《定风波·南海归赠王定国侍人寓娘》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
