@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">人间万事，毫发常重泰山轻。</h1>
-<h3 align="center">—— 辛弃疾《水调歌头·壬子三山被召陈端仁给事饮饯席上作》</h3>
+<h1 align="center">应倾谢女珠玑箧，尽写檀郎锦绣篇。</h1>
+<h3 align="center">—— 罗隐《七夕》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
