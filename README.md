@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">应倾谢女珠玑箧，尽写檀郎锦绣篇。</h1>
-<h3 align="center">—— 罗隐《七夕》</h3>
+<h1 align="center">可怜今夜月，不肯下西厢。</h1>
+<h3 align="center">—— 王庭筠《绝句·竹影和诗瘦》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
