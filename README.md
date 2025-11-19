@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">人间四月芳菲尽，山寺桃花始盛开。</h1>
-<h3 align="center">—— 白居易《大林寺桃花》</h3>
+<h1 align="center">明月皎皎照我床，星汉西流夜未央。</h1>
+<h3 align="center">—— 曹丕《燕歌行二首·其一》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
