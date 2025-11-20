@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">明月皎皎照我床，星汉西流夜未央。</h1>
-<h3 align="center">—— 曹丕《燕歌行二首·其一》</h3>
+<h1 align="center">故人江海别，几度隔山川。</h1>
+<h3 align="center">—— 司空曙《云阳馆与韩绅宿别》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
