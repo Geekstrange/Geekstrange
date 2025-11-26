@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">柳垂江上影，梅谢雪中枝。</h1>
-<h3 align="center">—— 晏几道《临江仙·身外闲愁空满》</h3>
+<h1 align="center">父耕原上田，子劚山下荒。</h1>
+<h3 align="center">—— 聂夷中《田家》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
