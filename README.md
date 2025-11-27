@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">父耕原上田，子劚山下荒。</h1>
-<h3 align="center">—— 聂夷中《田家》</h3>
+<h1 align="center">春宵一刻值千金，花有清香月有阴。</h1>
+<h3 align="center">—— 苏轼《春宵·春宵一刻值千金》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
