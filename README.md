@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">落红不是无情物，化作春泥更护花。</h1>
-<h3 align="center">—— 龚自珍《己亥杂诗·其五》</h3>
+<h1 align="center">艇子几时同泛？待折荷花临鉴。</h1>
+<h3 align="center">—— 厉鹗《谒金门·七月既望湖上雨后作》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
