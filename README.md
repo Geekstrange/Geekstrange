@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">四月十七，正是去年今日，别君时。</h1>
-<h3 align="center">—— 韦庄《女冠子·四月十七》</h3>
+<h1 align="center">故国神游，多情应笑我，早生华发。</h1>
+<h3 align="center">—— 苏轼《念奴娇·赤壁怀古》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
