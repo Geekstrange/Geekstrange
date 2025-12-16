@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">云想衣裳花想容，春风拂槛露华浓。</h1>
-<h3 align="center">—— 李白《清平调·其一》</h3>
+<h1 align="center">强携酒、小桥宅，怕梨花落尽成秋色。</h1>
+<h3 align="center">—— 姜夔《淡黄柳·空城晓角》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
