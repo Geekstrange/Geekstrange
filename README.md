@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">故人南燕吏，籍籍名更香。</h1>
-<h3 align="center">—— 岑参《至大梁却寄匡城主人》</h3>
+<h1 align="center">菡萏香销翠叶残，西风愁起绿波间。</h1>
+<h3 align="center">—— 李璟《摊破浣溪沙·菡萏香销翠叶残》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
