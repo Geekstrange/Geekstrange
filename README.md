@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">画楼洗净鸳鸯瓦，彩绳半湿秋千架。</h1>
-<h3 align="center">—— 王元鼎《醉太平·寒食》</h3>
+<h1 align="center">之子归穷泉，重壤永幽隔。</h1>
+<h3 align="center">—— 潘安《悼亡诗三首》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
