@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">风起。雪飞炎海变清凉。</h1>
-<h3 align="center">—— 苏轼《定风波·南海归赠王定国侍人寓娘》</h3>
+<h1 align="center">满园花菊郁金黄，中有孤丛色似霜。</h1>
+<h3 align="center">—— 白居易《重阳席上赋白菊》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
