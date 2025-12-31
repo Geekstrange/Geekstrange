@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">满园花菊郁金黄，中有孤丛色似霜。</h1>
-<h3 align="center">—— 白居易《重阳席上赋白菊》</h3>
+<h1 align="center">斜阳独倚西楼。遥山恰对帘钩。</h1>
+<h3 align="center">—— 晏殊《清平乐·红笺小字》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
