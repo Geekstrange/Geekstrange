@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">斜阳独倚西楼。遥山恰对帘钩。</h1>
-<h3 align="center">—— 晏殊《清平乐·红笺小字》</h3>
+<h1 align="center">戍鼓断人行，边秋一雁声。</h1>
+<h3 align="center">—— 杜甫《月夜忆舍弟》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
