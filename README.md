@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">记得那年花下，深夜，初识谢娘时。</h1>
-<h3 align="center">—— 韦庄《荷叶杯·记得那年花下》</h3>
+<h1 align="center">簌簌衣巾落枣花，村南村北响缫车，牛衣古柳卖黄瓜。</h1>
+<h3 align="center">—— 苏轼《浣溪沙·簌簌衣巾落枣花》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
