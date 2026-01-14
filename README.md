@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">杖剑对尊酒，耻为游子颜。</h1>
-<h3 align="center">—— 陆龟蒙《别离》</h3>
+<h1 align="center">桃之夭夭，灼灼其华。</h1>
+<h3 align="center">—— 佚名《桃夭》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
