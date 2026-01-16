@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">正蹇驴吟影，茶烟灶冷，酒亭门闭。</h1>
-<h3 align="center">—— 吴文英《无闷·催雪》</h3>
+<h1 align="center">紫萸一枝传赐，梦谁到、汉家陵。</h1>
+<h3 align="center">—— 姚云文《紫萸香慢·近重阳》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
