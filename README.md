@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">星月皎洁，明河在天，四无人声，声在树间。</h1>
-<h3 align="center">—— 欧阳修《秋声赋》</h3>
+<h1 align="center">一曲危弦断客肠。津桥捩柂转牙樯。</h1>
+<h3 align="center">—— 严仁《鹧鸪天·惜别》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
