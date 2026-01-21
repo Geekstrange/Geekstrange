@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">一曲危弦断客肠。津桥捩柂转牙樯。</h1>
-<h3 align="center">—— 严仁《鹧鸪天·惜别》</h3>
+<h1 align="center">一生傲岸苦不谐，恩疏媒劳志多乖。</h1>
+<h3 align="center">—— 李白《答王十二寒夜独酌有怀》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
