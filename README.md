@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">一生傲岸苦不谐，恩疏媒劳志多乖。</h1>
-<h3 align="center">—— 李白《答王十二寒夜独酌有怀》</h3>
+<h1 align="center">举杯互敬屠苏酒，散席分尝胜利茶。</h1>
+<h3 align="center">—— 董必武《元旦口占用柳亚子怀人韵》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
