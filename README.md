@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">菊花何太苦，遭此两重阳？</h1>
-<h3 align="center">—— 李白《九月十日即事》</h3>
+<h1 align="center">思君如满月，夜夜减清辉。</h1>
+<h3 align="center">—— 张九龄《赋得自君之出矣》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
