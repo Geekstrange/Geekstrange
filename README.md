@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">拆桐花烂漫，乍疏雨、洗清明。</h1>
-<h3 align="center">—— 柳永《木兰花慢·拆桐花烂漫》</h3>
+<h1 align="center">莺莺燕燕分飞后，粉淡梨花瘦。</h1>
+<h3 align="center">—— 元好问《虞美人·槐阴别院宜清昼》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
