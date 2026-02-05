@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">日暮诗成天又雪，与梅并作十分春。</h1>
-<h3 align="center">—— 卢梅坡《雪梅·其二》</h3>
+<h1 align="center">无边落木萧萧下，不尽长江滚滚来。</h1>
+<h3 align="center">—— 杜甫《登高》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
