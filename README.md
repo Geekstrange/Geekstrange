@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">荒村带返照，落叶乱纷纷。</h1>
-<h3 align="center">—— 刘长卿《碧涧别墅喜皇甫侍御相访》</h3>
+<h1 align="center">Hello 👋 I'm Geekstrange</h1>
+<h3 align="center">Some days you bloom, some days you grow roots. Both matter.</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
