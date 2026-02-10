@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">丈夫志，当景盛，耻疏闲。</h1>
-<h3 align="center">—— 苏舜钦《水调歌头·沧浪亭》</h3>
+<h1 align="center">纷纷红紫已成尘，布谷声中夏令新。</h1>
+<h3 align="center">—— 陆游《初夏绝句》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
