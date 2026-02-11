@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">纷纷红紫已成尘，布谷声中夏令新。</h1>
-<h3 align="center">—— 陆游《初夏绝句》</h3>
+<h1 align="center">白锦无纹香烂漫，玉树琼葩堆雪。</h1>
+<h3 align="center">—— 丘处机《无俗念·灵虚宫梨花词》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
