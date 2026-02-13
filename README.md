@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">矮纸斜行闲作草，晴窗细乳戏分茶。</h1>
-<h3 align="center">—— 陆游《临安春雨初霁》</h3>
+<h1 align="center">曾与美人桥上别，恨无消息到今朝。</h1>
+<h3 align="center">—— 刘禹锡《杨柳枝 / 柳枝词》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
