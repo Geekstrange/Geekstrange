@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">是无猫邪，是不会蓄猫也。</h1>
-<h3 align="center">—— 乐钧《世无良猫》</h3>
+<h1 align="center">重阳独酌杯中酒，抱病起登江上台。</h1>
+<h3 align="center">—— 杜甫《九日五首·其一》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
