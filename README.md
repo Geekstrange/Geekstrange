@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">壮志饥餐胡虏肉，笑谈渴饮匈奴血。</h1>
-<h3 align="center">—— 岳飞《满江红·写怀》</h3>
+<h1 align="center">Hello 👋 I'm Geekstrange</h1>
+<h3 align="center">Some days you bloom, some days you grow roots. Both matter.</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
