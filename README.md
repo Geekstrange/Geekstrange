@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">酒阑更喜团茶苦，梦断偏宜瑞脑香。</h1>
-<h3 align="center">—— 李清照《鹧鸪天·寒日萧萧上琐窗》</h3>
+<h1 align="center">巴子城头青草暮。巴山重叠相逢处。</h1>
+<h3 align="center">—— 张先《渔家傲·和程公辟赠》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
