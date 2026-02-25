@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">巴子城头青草暮。巴山重叠相逢处。</h1>
-<h3 align="center">—— 张先《渔家傲·和程公辟赠》</h3>
+<h1 align="center">白日登山望烽火，黄昏饮马傍交河。</h1>
+<h3 align="center">—— 李颀《古从军行》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
