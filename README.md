@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">羌笛何须怨杨柳，春风不度玉门关。</h1>
-<h3 align="center">—— 王之涣《凉州词二首·其一》</h3>
+<h1 align="center">将坛醇酒冰浆细，元夜邀宾灯火新。</h1>
+<h3 align="center">—— 赵时春《元宵饮陶总戎家二首》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
