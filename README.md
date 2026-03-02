@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">Hello 👋 I'm Geekstrange</h1>
-<h3 align="center">Some days you bloom, some days you grow roots. Both matter.</h3>
+<h1 align="center">强整绣衾，独掩朱扉，枕簟为谁铺设。</h1>
+<h3 align="center">—— 阮逸女《花心动·春词》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
