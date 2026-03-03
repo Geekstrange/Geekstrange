@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">强整绣衾，独掩朱扉，枕簟为谁铺设。</h1>
-<h3 align="center">—— 阮逸女《花心动·春词》</h3>
+<h1 align="center">满地残红宫锦污，昨夜南园风雨。</h1>
+<h3 align="center">—— 王安国《清平乐·春晚》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
