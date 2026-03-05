@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">荷叶五寸荷花娇，贴波不碍画船摇；</h1>
-<h3 align="center">—— 石涛《荷花》</h3>
+<h1 align="center">墙角数枝梅，凌寒独自开。</h1>
+<h3 align="center">—— 王安石《梅花 / 梅》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
