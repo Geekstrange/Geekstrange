@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">墙角数枝梅，凌寒独自开。</h1>
-<h3 align="center">—— 王安石《梅花 / 梅》</h3>
+<h1 align="center">烟萝翠竹，欠罗袖、为倚天寒日暮。</h1>
+<h3 align="center">—— 吴文英《绛都春·余往来清华池馆六年赋咏屡矣感昔伤今益不堪怀乃复作此解》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
