@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">纸上得来终觉浅，绝知此事要躬行。</h1>
-<h3 align="center">—— 陆游《冬夜读书示子聿》</h3>
+<h1 align="center">中山人予之猫，猫善捕鼠及鸡。</h1>
+<h3 align="center">—— 刘基《乞猫》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
