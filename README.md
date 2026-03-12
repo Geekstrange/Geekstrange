@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">天平山上白云泉，云自无心水自闲。</h1>
-<h3 align="center">—— 白居易《白云泉》</h3>
+<h1 align="center">孤帆远影碧空尽，唯见长江天际流。</h1>
+<h3 align="center">—— 李白《黄鹤楼送孟浩然之广陵》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
