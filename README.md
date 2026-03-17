@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">翠华想像空山里，玉殿虚无野寺中。</h1>
-<h3 align="center">—— 杜甫《咏怀古迹五首·其四》</h3>
+<h1 align="center">六出飞花入户时，坐看青竹变琼枝。</h1>
+<h3 align="center">—— 高骈《对雪》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
