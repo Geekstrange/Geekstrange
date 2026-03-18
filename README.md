@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">六出飞花入户时，坐看青竹变琼枝。</h1>
-<h3 align="center">—— 高骈《对雪》</h3>
+<h1 align="center">安得五彩虹，驾天作长桥。</h1>
+<h3 align="center">—— 李白《焦山望寥山》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
