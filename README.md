@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">树阴满地日当午，梦觉流莺时一声。</h1>
-<h3 align="center">—— 苏舜钦《夏意》</h3>
+<h1 align="center">但将千岁叶，常奉万年杯。</h1>
+<h3 align="center">—— 赵彦昭《奉和元日赐群臣柏叶应制》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
