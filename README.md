@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">溪深难受雪，山冻不流云。</h1>
-<h3 align="center">—— 洪升《雪望》</h3>
+<h1 align="center">蓟庭萧瑟故人稀，何处登高且送归。</h1>
+<h3 align="center">—— 王之涣《九日送别》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
