@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">楼船夜雪瓜洲渡，铁马秋风大散关。</h1>
-<h3 align="center">—— 陆游《书愤五首·其一》</h3>
+<h1 align="center">数点雨声风约住。朦胧淡月云来去。</h1>
+<h3 align="center">—— 李冠《蝶恋花·春暮》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
