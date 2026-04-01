@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">数点雨声风约住。朦胧淡月云来去。</h1>
-<h3 align="center">—— 李冠《蝶恋花·春暮》</h3>
+<h1 align="center">庭树不知人去尽，春来还发旧时花。</h1>
+<h3 align="center">—— 岑参《山房春事二首》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
