@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">庭树不知人去尽，春来还发旧时花。</h1>
-<h3 align="center">—— 岑参《山房春事二首》</h3>
+<h1 align="center">神椎凿石塞神潭，白马参覃赤尘起。</h1>
+<h3 align="center">—— 温庭筠《拂舞词 / 公无渡河》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
