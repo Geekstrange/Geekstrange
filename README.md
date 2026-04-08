@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">青海长云暗雪山，孤城遥望玉门关。</h1>
-<h3 align="center">—— 王昌龄《从军行七首·其四》</h3>
+<h1 align="center">两情缠绵忽如故。复畏秋风生晓路。</h1>
+<h3 align="center">—— 王建《七夕曲》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
