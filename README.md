@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">鬓发已甘尘路白，菊花犹送塞垣黄。</h1>
-<h3 align="center">—— 齐之鸾《九日登清水营城》</h3>
+<h1 align="center">曲终过尽松陵路，回首烟波十四桥。</h1>
+<h3 align="center">—— 姜夔《过垂虹》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
