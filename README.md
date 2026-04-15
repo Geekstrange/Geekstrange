@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">荒村带返照，落叶乱纷纷。</h1>
-<h3 align="center">—— 刘长卿《碧涧别墅喜皇甫侍御相访》</h3>
+<h1 align="center">寿酒还尝药，晨餐不荐鱼。</h1>
+<h3 align="center">—— 钱起《送外甥怀素上人归乡侍奉》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
