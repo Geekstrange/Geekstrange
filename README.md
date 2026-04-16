@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">寿酒还尝药，晨餐不荐鱼。</h1>
-<h3 align="center">—— 钱起《送外甥怀素上人归乡侍奉》</h3>
+<h1 align="center">黄叶覆溪桥，荒村唯古木。</h1>
+<h3 align="center">—— 柳宗元《秋晓行南谷经荒村》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
