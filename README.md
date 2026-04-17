@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">黄叶覆溪桥，荒村唯古木。</h1>
-<h3 align="center">—— 柳宗元《秋晓行南谷经荒村》</h3>
+<h1 align="center">儿女纷纷夸结束，新样钗符艾虎。</h1>
+<h3 align="center">—— 刘克庄《贺新郎·端午》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
