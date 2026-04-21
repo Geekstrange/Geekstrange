@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">朝辞白帝彩云间，千里江陵一日还。</h1>
-<h3 align="center">—— 李白《早发白帝城 / 白帝下江陵》</h3>
+<h1 align="center">半夜呼儿趁晓耕，羸牛无力渐艰行。</h1>
+<h3 align="center">—— 颜仁郁《农家》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
