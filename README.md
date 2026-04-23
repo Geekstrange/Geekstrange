@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">无花无酒过清明，兴味萧然似野僧。</h1>
-<h3 align="center">—— 王禹偁《清明》</h3>
+<h1 align="center">清晨入古寺，初日照高林。</h1>
+<h3 align="center">—— 常建《题破山寺后禅院》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
