@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">清晨入古寺，初日照高林。</h1>
-<h3 align="center">—— 常建《题破山寺后禅院》</h3>
+<h1 align="center">祸患常积于忽微，而智勇多困于所溺</h1>
+<h3 align="center">—— 欧阳修《伶官传序》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
