@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">造化钟神秀，阴阳割昏晓。</h1>
-<h3 align="center">—— 杜甫《望岳》</h3>
+<h1 align="center">今古长如白练飞，一条界破青山色。</h1>
+<h3 align="center">—— 徐凝《庐山瀑布》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
