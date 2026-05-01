@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">今古长如白练飞，一条界破青山色。</h1>
-<h3 align="center">—— 徐凝《庐山瀑布》</h3>
+<h1 align="center">崖崩路绝猿鸟去，惟有乔木搀天长。</h1>
+<h3 align="center">—— 苏轼《李思训画长江绝岛图》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
