@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">桃花春水渌，水上鸳鸯浴。</h1>
-<h3 align="center">—— 韦庄《菩萨蛮》</h3>
+<h1 align="center">山中一夜雨，树杪百重泉。</h1>
+<h3 align="center">—— 王维《送梓州李使君》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
