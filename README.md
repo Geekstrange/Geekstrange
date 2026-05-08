@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">向来冰雪凝严地，力斡春回竟是谁？</h1>
-<h3 align="center">—— 陆游《落梅》</h3>
+<h1 align="center">不愁屋漏床床湿，且喜溪流岸岸深。</h1>
+<h3 align="center">—— 曾几《苏秀道中》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
