@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">摇落深知宋玉悲，风流儒雅亦吾师。</h1>
-<h3 align="center">—— 杜甫《咏怀古迹五首·其二》</h3>
+<h1 align="center">燕子来时新社，梨花落后清明。</h1>
+<h3 align="center">—— 晏殊《破阵子·春景》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
