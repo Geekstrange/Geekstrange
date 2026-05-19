@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">黄埃散漫风萧索，云栈萦纡登剑阁。</h1>
-<h3 align="center">—— 白居易《长恨歌》</h3>
+<h1 align="center">黄河落天走东海，万里写入胸怀间。</h1>
+<h3 align="center">—— 李白《赠裴十四》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
