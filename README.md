@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">西湖到日，重见梅钿皱。</h1>
-<h3 align="center">—— 吴文英《瑞龙吟·送梅津》</h3>
+<h1 align="center">远岫出山催薄暮，细风吹雨弄轻阴。梨花欲谢恐难禁。</h1>
+<h3 align="center">—— 李清照《浣溪沙·小院闲窗春色深》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
