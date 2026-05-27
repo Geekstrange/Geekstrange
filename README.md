@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">床空委清尘，室虚来悲风。</h1>
-<h3 align="center">—— 潘安《悼亡诗三首》</h3>
+<h1 align="center">先生名利比尘灰，绿竹青松手自栽。</h1>
+<h3 align="center">—— 王汝舟《咏归堂隐鳞洞》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
