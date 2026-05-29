@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">丹砂成黄金，骑龙飞上太清家，云愁海思令人嗟。</h1>
-<h3 align="center">—— 李白《飞龙引二首·其一》</h3>
+<h1 align="center">中山人予之猫，猫善捕鼠及鸡。</h1>
+<h3 align="center">—— 刘基《乞猫》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
