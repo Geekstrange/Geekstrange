@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">西风乱叶溪桥树。秋在黄花羞涩处</h1>
-<h3 align="center">—— 张榘《青玉案·被檄出郊题陈氏山居》</h3>
+<h1 align="center">呜呼！楚虽三户能亡秦，岂有堂堂中国空无人！</h1>
+<h3 align="center">—— 陆游《金错刀行》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
