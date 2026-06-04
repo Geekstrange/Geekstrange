@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">呜呼！楚虽三户能亡秦，岂有堂堂中国空无人！</h1>
-<h3 align="center">—— 陆游《金错刀行》</h3>
+<h1 align="center">来时父母知隔生，重著衣裳如送死。</h1>
+<h3 align="center">—— 王建《渡辽水》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
