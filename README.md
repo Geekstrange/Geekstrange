@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">楼头残梦五更钟，花底离情三月雨。</h1>
-<h3 align="center">—— 晏殊《玉楼春·春恨》</h3>
+<h1 align="center">功名炊黍寻常梦，怪事书空感激人。</h1>
+<h3 align="center">—— 王逊《西夏重阳》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
