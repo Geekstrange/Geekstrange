@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">喃喃教言语，一一刷毛衣。</h1>
-<h3 align="center">—— 白居易《燕诗示刘叟》</h3>
+<h1 align="center">故乡今夜思千里，霜鬓明朝又一年。</h1>
+<h3 align="center">—— 高适《除夜作》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
