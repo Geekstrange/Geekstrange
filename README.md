@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">风风雨雨梨花，窄索帘栊，巧小窗纱。</h1>
-<h3 align="center">—— 乔吉《折桂令·客窗清明》</h3>
+<h1 align="center">昨夜星辰昨夜风，画楼西畔桂堂东。</h1>
+<h3 align="center">—— 李商隐《无题·昨夜星辰昨夜风》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
