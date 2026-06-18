@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">昨夜星辰昨夜风，画楼西畔桂堂东。</h1>
-<h3 align="center">—— 李商隐《无题·昨夜星辰昨夜风》</h3>
+<h1 align="center">日啖荔枝三百颗，不辞长作岭南人。</h1>
+<h3 align="center">—— 苏轼《惠州一绝》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
