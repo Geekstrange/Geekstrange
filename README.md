@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">日啖荔枝三百颗，不辞长作岭南人。</h1>
-<h3 align="center">—— 苏轼《惠州一绝》</h3>
+<h1 align="center">新竹高于旧竹枝，全凭老干为扶持。</h1>
+<h3 align="center">—— 郑燮《新竹》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
