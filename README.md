@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">休言女子非英物，夜夜龙泉壁上鸣。</h1>
-<h3 align="center">—— 秋瑾《鹧鸪天·祖国沉沦感不禁》</h3>
+<h1 align="center">家在梦中何日到，春来江上几人还？</h1>
+<h3 align="center">—— 卢纶《长安春望》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
