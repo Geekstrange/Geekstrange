@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">俯饮一杯酒，仰聆金玉章。</h1>
-<h3 align="center">—— 韦应物《郡斋雨中与诸文士燕集》</h3>
+<h1 align="center">相顾无言，惟有泪千行。</h1>
+<h3 align="center">—— 苏轼《江城子·乙卯正月二十日夜记梦》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
