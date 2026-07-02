@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">故人何在，水村山郭。</h1>
-<h3 align="center">—— 孙道绚《忆秦娥·季温老友归樵阳人来闲书因以为寄》</h3>
+<h1 align="center">将军角弓不得控，都护铁衣冷难着。</h1>
+<h3 align="center">—— 岑参《白雪歌送武判官归京》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
