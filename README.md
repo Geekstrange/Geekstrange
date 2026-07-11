@@ -82,5 +82,7 @@
   </a>
   <a href="https://www.coolapk.com/u/3791216">
     <img src="https://img.shields.io/badge/Coolapk-11B5F6?logo=android&logoColor=white&color=32CD32" alt="Coolapk">
+  <a href="https://lenscape.art/photographer/Eric%20Zhang">
+    <img src="https://img.shields.io/badge/Lenscape-000000?logo=lenscape" alt="Lenscape">
   </a>
 </p>
