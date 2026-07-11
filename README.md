@@ -30,6 +30,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Hyper--V-0078D4?logo=microsoft&logoColor=white" alt="Hyper-V">
+  <img src="https://img.shields.io/badge/Proxmox%20VE-E57000?logo=proxmox&logoColor=white" alt="Proxmox VE">
+  <img src="https://img.shields.io/badge/VMware%20ESXi-607078?logo=vmware&logoColor=white" alt="ESXi">
 </p>
 
 <p><strong>Frontend Technologies</strong><br>
