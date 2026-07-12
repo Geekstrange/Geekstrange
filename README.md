@@ -4,7 +4,7 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">Long time no see, stranger! ∠( ᐛ 」∠)＿</h1>
+<h1 align="center">Hello 👋 I'm Geekstrange</h1>
 <h3 align="center">Some days you bloom, some days you grow roots. Both matter.</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
