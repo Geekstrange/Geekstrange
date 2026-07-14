@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">谁忍窥河汉，迢迢问斗牛。</h1>
-<h3 align="center">—— 孟浩然《他乡七夕》</h3>
+<h1 align="center">登高望蓬流，想象金银台。</h1>
+<h3 align="center">—— 李白《游泰山六首》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
