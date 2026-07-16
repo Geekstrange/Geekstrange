@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">白日地中出，黄河天外来。</h1>
-<h3 align="center">—— 张蠙《登单于台》</h3>
+<h1 align="center">清谈可以饱，梦想接无由。</h1>
+<h3 align="center">—— 韩愈《洞庭湖阻风赠张十一署·时自阳山徙掾江陵》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
