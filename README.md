@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">清谈可以饱，梦想接无由。</h1>
-<h3 align="center">—— 韩愈《洞庭湖阻风赠张十一署·时自阳山徙掾江陵》</h3>
+<h1 align="center">长江万里东注，晓吹卷惊涛。</h1>
+<h3 align="center">—— 吴潜《水调歌头·焦山》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
