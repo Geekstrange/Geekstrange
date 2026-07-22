@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">谁教岁岁红莲夜，两处沉吟各自知。</h1>
-<h3 align="center">—— 姜夔《鹧鸪天·元夕有所梦》</h3>
+<h1 align="center">黄河之水天上来，奔流到海不复回。</h1>
+<h3 align="center">—— 李白《将进酒》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
