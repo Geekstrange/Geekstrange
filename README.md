@@ -4,8 +4,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">犬吠水声中，桃花带露浓。</h1>
-<h3 align="center">—— 李白《访戴天山道士不遇》</h3>
+<h1 align="center">一涓春水点黄昏，便没顿、相思处。</h1>
+<h3 align="center">—— 史达祖《留春令·咏梅花》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
