@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">愿得此身长报国，何须生入玉门关。</h1>
-<h3 align="center">—— 戴叔伦《塞上曲二首·其二》</h3>
+<h1 align="center">感君缠绵意，系在红罗襦。</h1>
+<h3 align="center">—— 张籍《节妇吟·寄东平李司空师道》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
