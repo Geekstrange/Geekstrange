@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">感君缠绵意，系在红罗襦。</h1>
-<h3 align="center">—— 张籍《节妇吟·寄东平李司空师道》</h3>
+<h1 align="center">忘却成都来十载，因君未免思量。</h1>
+<h3 align="center">—— 苏轼《临江仙·送王缄》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
