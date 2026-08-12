@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">蛾眉淡了教谁画？瘦岩岩羞戴石榴花。</h1>
-<h3 align="center">—— 关汉卿《大德歌·夏》</h3>
+<h1 align="center">星垂平野阔，月涌大江流。</h1>
+<h3 align="center">—— 杜甫《旅夜书怀》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
