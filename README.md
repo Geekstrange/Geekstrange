@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">非淡泊无以明志，非宁静无以致远。</h1>
-<h3 align="center">—— 诸葛亮《诫子书》</h3>
+<h1 align="center">秋风起兮木叶飞，吴江水兮鲈正肥。</h1>
+<h3 align="center">—— 张翰《思吴江歌》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
