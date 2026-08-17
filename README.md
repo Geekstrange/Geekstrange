@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">Hello 👋 I'm Geekstrange</h1>
-<h3 align="center">Some days you bloom, some days you grow roots. Both matter.</h3>
+<h1 align="center">春衫犹是，小蛮针线，曾湿西湖雨。</h1>
+<h3 align="center">—— 苏轼《青玉案·送伯固归吴中》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
