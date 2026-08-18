@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">春衫犹是，小蛮针线，曾湿西湖雨。</h1>
-<h3 align="center">—— 苏轼《青玉案·送伯固归吴中》</h3>
+<h1 align="center">枯藤老树昏鸦，小桥流水人家，古道西风瘦马。</h1>
+<h3 align="center">—— 马致远《天净沙·秋思》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
