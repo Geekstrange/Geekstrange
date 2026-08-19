@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">枯藤老树昏鸦，小桥流水人家，古道西风瘦马。</h1>
-<h3 align="center">—— 马致远《天净沙·秋思》</h3>
+<h1 align="center">王孙莫把比蓬蒿，九日枝枝近鬓毛。</h1>
+<h3 align="center">—— 郑谷《菊》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
