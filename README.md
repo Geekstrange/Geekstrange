@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">王孙莫把比蓬蒿，九日枝枝近鬓毛。</h1>
-<h3 align="center">—— 郑谷《菊》</h3>
+<h1 align="center">又说今夕天津，西畔重欢遇。</h1>
+<h3 align="center">—— 吴文英《荔枝香近·七夕》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
