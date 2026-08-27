@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">风雨梨花寒食过，几家坟上子孙来？</h1>
-<h3 align="center">—— 高启《送陈秀才还沙上省墓》</h3>
+<h1 align="center">北风利如剑，布絮不蔽身。</h1>
+<h3 align="center">—— 白居易《村居苦寒》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
