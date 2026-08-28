@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">北风利如剑，布絮不蔽身。</h1>
-<h3 align="center">—— 白居易《村居苦寒》</h3>
+<h1 align="center">二月黄莺飞上林，春城紫禁晓阴阴。</h1>
+<h3 align="center">—— 钱起《赠阙下裴舍人》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
