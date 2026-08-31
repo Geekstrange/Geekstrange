@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">Hello 👋 I'm Geekstrange</h1>
-<h3 align="center">Some days you bloom, some days you grow roots. Both matter.</h3>
+<h1 align="center">茶鼎熟，酒卮扬，醉来诗兴狂。</h1>
+<h3 align="center">—— 张大烈《阮郎归·立夏》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
