@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">燕帘莺户，云窗雾阁，酒醒啼鸦。</h1>
-<h3 align="center">—— 张炎《朝中措·清明时节》</h3>
+<h1 align="center">新竹高于旧竹枝，全凭老干为扶持。</h1>
+<h3 align="center">—— 郑燮《新竹》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
