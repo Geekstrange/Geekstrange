@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">新竹高于旧竹枝，全凭老干为扶持。</h1>
-<h3 align="center">—— 郑燮《新竹》</h3>
+<h1 align="center">疾风知劲草，板荡识诚臣。</h1>
+<h3 align="center">—— 李世民《赐萧瑀》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
