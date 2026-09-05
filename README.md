@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">接天莲叶无穷碧，映日荷花别样红。</h1>
-<h3 align="center">—— 杨万里《晓出净慈寺送林子方》</h3>
+<h1 align="center">Hello 👋 I'm Geekstrange</h1>
+<h3 align="center">Some days you bloom, some days you grow roots. Both matter.</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
