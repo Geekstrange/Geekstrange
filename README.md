@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">日啖荔枝三百颗，不辞长作岭南人。</h1>
-<h3 align="center">—— 苏轼《惠州一绝》</h3>
+<h1 align="center">泰山不要欺毫末，颜子无心羡老彭。</h1>
+<h3 align="center">—— 白居易《放言五首·其五》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
