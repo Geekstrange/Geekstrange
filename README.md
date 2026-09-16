@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">逢郎欲语低头笑，碧玉搔头落水中。</h1>
-<h3 align="center">—— 白居易《采莲曲》</h3>
+<h1 align="center">鱼书经岁绝，烛泪流残月。</h1>
+<h3 align="center">—— 徐灿《菩萨蛮·秋闺》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
