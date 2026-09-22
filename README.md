@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">长安大雪天，鸟雀难相觅。</h1>
-<h3 align="center">—— 张孜《雪诗》</h3>
+<h1 align="center">君看获稻时，粒粒脂膏香。</h1>
+<h3 align="center">—— 黄燮清《秋日田家杂咏》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
