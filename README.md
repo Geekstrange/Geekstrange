@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">君看获稻时，粒粒脂膏香。</h1>
-<h3 align="center">—— 黄燮清《秋日田家杂咏》</h3>
+<h1 align="center">初惊河汉落，半洒云天里。</h1>
+<h3 align="center">—— 李白《望庐山瀑布水二首》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
