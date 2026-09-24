@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">初惊河汉落，半洒云天里。</h1>
-<h3 align="center">—— 李白《望庐山瀑布水二首》</h3>
+<h1 align="center">春城无处不飞花，寒食东风御柳斜。</h1>
+<h3 align="center">—— 韩翃《寒食 / 寒食日即事》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
