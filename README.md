@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">春江潮水连海平，海上明月共潮生。</h1>
-<h3 align="center">—— 张若虚《春江花月夜》</h3>
+<h1 align="center">夜阑卧听风吹雨，铁马冰河入梦来。</h1>
+<h3 align="center">—— 陆游《十一月四日风雨大作》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
