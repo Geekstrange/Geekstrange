@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">穿针人在合欢楼，正月露、玉盘高泻。</h1>
-<h3 align="center">—— 严蕊《鹊桥仙·碧梧初出》</h3>
+<h1 align="center">令公桃李满天下，何用堂前更种花。</h1>
+<h3 align="center">—— 白居易《奉和令公绿野堂种花》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
