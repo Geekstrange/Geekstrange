@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">林莺啼到无声处，青草池塘独听蛙。</h1>
-<h3 align="center">—— 曹豳《春暮·门外无人问落花》</h3>
+<h1 align="center">望阙云遮眼，思乡雨滴心。</h1>
+<h3 align="center">—— 白居易《阴雨》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
