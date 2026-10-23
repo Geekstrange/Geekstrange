@@ -12,9 +12,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geekstrange&layout=compact&theme=github_dark" height="160">
 </div>
-<!-- 技术栈 -->
+<!-- 技能 -->
 
-<h3>🛠️ Tech Stack</h3>
+<h3>✨ Skills</h3>
 
 <p><strong>Programming Languages</strong><br>
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell">
@@ -91,7 +91,7 @@
 </p>
 
 <!-- 社交链接 -->
-<h3>🌐 Connect with Me</h3>
+<h3>🌐 Find Me</h3>
 <p>
   <a href="https://unsplash.com/@bewind">
     <img src="https://img.shields.io/badge/Unsplash-000000?logo=unsplash&style=flat-square" alt="Unsplash">
