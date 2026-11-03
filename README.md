@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">谁言寸草心，报得三春晖。</h1>
-<h3 align="center">—— 孟郊《游子吟 / 迎母漂上作》</h3>
+<h1 align="center">牛靿咤咤，田确确，旱块敲牛蹄趵趵。</h1>
+<h3 align="center">—— 元稹《田家词 / 田家行》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
