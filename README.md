@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">牛羊自归村巷，童稚不识衣冠。</h1>
-<h3 align="center">—— 王维《田园乐七首·其四》</h3>
+<h1 align="center">纤云弄巧，飞星传恨，银汉迢迢暗度。</h1>
+<h3 align="center">—— 秦观《鹊桥仙·纤云弄巧》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
