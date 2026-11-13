@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">忆昔花间相见后，只凭纤手，暗抛红豆。</h1>
-<h3 align="center">—— 欧阳炯《贺明朝·忆昔花间相见后》</h3>
+<h1 align="center">苟利国家生死以，岂因祸福避趋之！</h1>
+<h3 align="center">—— 林则徐《赴戍登程口占示家人·其二》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
