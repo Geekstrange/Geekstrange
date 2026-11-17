@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">千里稻花应秀色，五更桐叶最佳音。</h1>
-<h3 align="center">—— 曾几《苏秀道中》</h3>
+<h1 align="center">黄菊枝头生晓寒。人生莫放酒杯干。</h1>
+<h3 align="center">—— 黄庭坚《鹧鸪天·坐中有眉山隐客史应之和前韵》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
