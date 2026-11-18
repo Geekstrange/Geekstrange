@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">黄菊枝头生晓寒。人生莫放酒杯干。</h1>
-<h3 align="center">—— 黄庭坚《鹧鸪天·坐中有眉山隐客史应之和前韵》</h3>
+<h1 align="center">人生有酒须当醉，一滴何曾到九泉。</h1>
+<h3 align="center">—— 高翥《清明日对酒》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
