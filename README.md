@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">人生有酒须当醉，一滴何曾到九泉。</h1>
-<h3 align="center">—— 高翥《清明日对酒》</h3>
+<h1 align="center">万里平湖秋色冷，星辰垂影参然。</h1>
+<h3 align="center">—— 牛希济《临江仙·洞庭波浪颭晴天》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
