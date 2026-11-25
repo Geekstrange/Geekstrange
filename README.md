@@ -5,8 +5,8 @@
 </div>
 
 <!-- 每日诗词诗句区域 -->
-<h1 align="center">横笛闻声不见人，红旗直上天山雪。</h1>
-<h3 align="center">—— 陈羽《从军行》</h3>
+<h1 align="center">雌雄空中鸣，声尽呼不归。</h1>
+<h3 align="center">—— 白居易《燕诗示刘叟》</h3>
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geekstrange&show_icons=true&theme=github_dark" height="160">
